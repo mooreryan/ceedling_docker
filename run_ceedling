@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run -it --workdir $PWD -v $PWD:$PWD mooreryan/ceedling
